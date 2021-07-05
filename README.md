@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OyugiFelix
-- 👀 I’m interested in building modern mobile apps
-- 🌱 I’m currently learning Computer science 
-- 💞️ I’m looking to collaborate on Flutter projects 
+- 👀 I’m interested in developing websites and mobile apps
+- 🌱 I’m currently learning Computer programming 
+- 💞️ I’m looking to collaborate on Flutter projects and webprojects
 - 📫 How to reach me Facebook, LinkedIn , Instagram @ Oyugi Felix, 
 
 <!---
